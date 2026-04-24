@@ -1,7 +1,3 @@
-Here’s a **clean, professional README.md** you can directly use for your GitHub project 👇
-
----
-
 # ⚖️ Autonomous Legal Researcher Agent
 
 An AI-powered legal research assistant that autonomously retrieves, analyzes, and generates structured legal reports using real-time web data and Large Language Models (LLMs).
@@ -161,36 +157,3 @@ python app.py
 * Gradio – [https://www.gradio.app/docs](https://www.gradio.app/docs)
 * FPDF – [https://pyfpdf.readthedocs.io](https://pyfpdf.readthedocs.io)
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit pull requests.
-
----
-
-## 📜 License
-
-This project is for educational purposes.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
----
-
-# ⭐ If you like this project, give it a star!
-
----
-
-# 🚀 Want to stand out?
-
-If you want, I can also:
-
-* 🔥 Add **badges (GitHub style)**
-* 🎥 Add demo section
-* 🌐 Help you deploy on Vercel/Render
-
-Just tell me 👍
